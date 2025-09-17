@@ -1,0 +1,8 @@
+#swapping of two numbers using third variable
+a=50
+b=100
+c=a
+a=b
+b=c
+print("after swapping:",a)
+print("after swapping:",b)
