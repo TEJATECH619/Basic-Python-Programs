@@ -1,0 +1,4 @@
+#sum of first n odd numbers
+n=int(input("enter the number:"))
+odd=n**2
+print(odd)
