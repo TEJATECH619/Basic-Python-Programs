@@ -1,0 +1,4 @@
+#write the python code to convert mins to secs
+mins=int(input("enter the minutes:"))
+secs=mins*60
+print(secs)
