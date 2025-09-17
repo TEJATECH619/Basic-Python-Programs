@@ -1,0 +1,6 @@
+#write a python program to print the primitive datatypes
+a=10
+b=1.412
+c=True
+print("integer is:",a)
+print
