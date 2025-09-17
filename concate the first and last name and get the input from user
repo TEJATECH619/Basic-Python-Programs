@@ -1,0 +1,5 @@
+#concate the first and last name and get the input from user
+a=input("enter your first name:")
+b=input("enter your last name:")
+c=a+b
+print("your full name:",c)
